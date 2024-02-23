@@ -20,6 +20,7 @@ export default function Calendar() {
                 <tbody>
                     <tr>
                         <td className="time">8 am</td>
+                        <Event event='Fancy Dinner 🎩' color='green' />
                     </tr>
                     <tr>
                         <td className="time">9 am</td>
